@@ -1,0 +1,25 @@
+{
+  "name": "redactor-js-font-awesome",
+  "version": "0.0.0",
+  "description": "Redactor-awesome",
+  "main": "gruntfile.js",
+  "dependencies": {
+    "fontawesome-list": "^0.0.0"
+  },
+  "devDependencies": {
+  	"grunt": "^0.4.5"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jpdevries/redactor-js-font-awesome.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jpdevries/redactor-js-font-awesome/issues"
+  },
+  "homepage": "https://github.com/jpdevries/redactor-js-font-awesome#readme"
+}
